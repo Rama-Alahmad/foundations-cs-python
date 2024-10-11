@@ -34,14 +34,18 @@
 #print(reversed_str)
 
 ##exercise4
-#def even_numbers(n):
+# def even_numbers(n):
 #    even_number =[]
-#    for n in even_number:
-#     if (n%2==0):
-#            even_number.append(n)
-#            return even_number
-#n=[input("enter a list of integers:")]
-#print (even_numbers)
+#    for i in n:
+#     if (i%2==0):
+#            even_number.append(i)
+#    return even_number
+# list=[]
+# d= int(input("enter a number of list"))
+# for i in range(d):
+#     number=int(input("enter a numbers"))
+#     list.append(number)   
+# print (even_numbers(list))
 
 ##exercise5
 #def password(p):
